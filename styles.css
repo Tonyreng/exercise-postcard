@@ -1,7 +1,3 @@
-* {
-	min-height: 10px;
-}
-
 body {
 	display: flex;
 	justify-content: center;
